@@ -4,7 +4,7 @@
 
 ## Education
 - B.A., Business Analytics | The University of Tennessee Knoxville (_August 2020 - May 2024_)
-- 
+
 ## Work Experience
 **Business Analyst Intern @ Knoxville Utilities Board (_November 2022 - Present_)**
 -  Developed reports for management to estimate vehicle costs in diverse employee hiring scenarios.
