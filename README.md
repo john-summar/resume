@@ -1,7 +1,5 @@
 # John Summar
-_An aspiring data science student with 15 months of professional experience earned at Knoxville Utilities Board while pursuing my bachelor’s degree at The University of Tennessee Knoxville. I am currently looking for a role where I can utilize 
-and enhance my data visualization abilities, programming skills, and business experience.
-_
+*An aspiring data science student with 15 months of professional experience earned at Knoxville Utilities Board while pursuing my bachelor’s degree at The University of Tennessee Knoxville. I am currently looking for a role where I can utilize and enhance my data visualization abilities, programming skills, and business experience.*
 
 #### Technical Skills: R, Python, SQL, Tableau, html
 
